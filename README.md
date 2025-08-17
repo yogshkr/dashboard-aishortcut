@@ -17,7 +17,7 @@ Instant Publishing:
 The dashboard is directly connected to Firebase—so any newly published or edited article automatically appears on every device running the mobile app.
 
 Mobile App Integration:
-Manage everything from the dashboard. All changes, analytics, and user actions sync instantly to the AIShortCut mobile app (see it on GitHub).
+Manage everything from the dashboard. All changes, analytics, and user actions sync instantly to the AIShortCut mobile app [see it on GitHub](https://github.com/yogshkr/AIShortCut).
 
 ![Dashboard Banner](screenshots/Screenshot_(25).png)
 
@@ -73,7 +73,7 @@ Scalable design—built to grow with your user base and content.
 📱 Explore the AIShortCut Mobile App
 
 Curious how this dashboard powers a real-world app?
-👉 Check out the live mobile app repo: AIShortCut Mobile App
+👉 Check out the live mobile app repo: [AIShortCut Mobile App](https://github.com/yogshkr/AIShortCut)
 
 👋 Ready to Build Your Next Project?
 
