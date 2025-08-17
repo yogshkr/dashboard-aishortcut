@@ -20,12 +20,19 @@ Mobile App Integration:
 Manage everything from the dashboard. All changes, analytics, and user actions sync instantly to the AIShortCut mobile app (see it on GitHub).
 
 ![Dashboard Banner](screenshots/Screenshot (25).png)
+
 ![Article Management](screenshots/Screenshot (26).png)
+
 ![User Banner](screenshots/Screenshot (27).png)
+
 ![Analytics Dashboard](screenshots/Screenshot (28).png)
+
 ![Add new article](screenshots/Screenshot (29).png)
+
 ![Add new article(lower part)](screenshots/Screenshot (30).png)
+
 ![Edit article](screenshots/Screenshot (31).png)
+
 ![Edit article(lower part)](screenshots/Screenshot (32).png)
 
 ⚙️ How It Works
