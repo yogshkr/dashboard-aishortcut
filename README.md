@@ -19,14 +19,14 @@ The dashboard is directly connected to Firebase—so any newly published or edit
 Mobile App Integration:
 Manage everything from the dashboard. All changes, analytics, and user actions sync instantly to the AIShortCut mobile app (see it on GitHub).
 
-![Dashboard Banner](screenshot/Screenshot (25).png)
-![Article Management](screenshot/Screenshot (26).png)
-![User Banner](screenshot/Screenshot (27).png)
-![Analytics Dashboard](screenshot/Screenshot (28).png)
-![Add new article](screenshot/Screenshot (29).png)
-![Add new article(lower part)](screenshot/Screenshot (30).png)
-![Edit article](screenshot/Screenshot (31).png)
-![Edit article(lower part)](screenshot/Screenshot (32).png)
+![Dashboard Banner](screenshots/Screenshot (25).png)
+![Article Management](screenshots/Screenshot (26).png)
+![User Banner](screenshots/Screenshot (27).png)
+![Analytics Dashboard](screenshots/Screenshot (28).png)
+![Add new article](screenshots/Screenshot (29).png)
+![Add new article(lower part)](screenshots/Screenshot (30).png)
+![Edit article](screenshots/Screenshot (31).png)
+![Edit article(lower part)](screenshots/Screenshot (32).png)
 
 ⚙️ How It Works
 
@@ -54,9 +54,13 @@ Scalable design—built to grow with your user base and content.
 🏆 My Contributions
 
 ✔️ Architected and built a sophisticated admin dashboard using state-of-the-art JavaScript frameworks and cloud integration.
+
 ✔️ Engineered real-time sync between web dashboard and mobile clients for instant updates.
+
 ✔️ Developed a secure, flexible user management system and intuitive analytics.
+
 ✔️ Designed every component and workflow for maximum productivity—so any client or team can jump right in.
+
 ✔️ Wrote all source code, styled the UI, optimized for mobile/responsive, and integrated third-party tools where needed.
 
 📱 Explore the AIShortCut Mobile App
